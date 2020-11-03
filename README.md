@@ -2,7 +2,7 @@
 
 ## Awesome Screenshot:
 
-![code quiz](https://github.com/MarioThompson0010/04_Code_Quiz/blob/main/Assets/AwesomeQuiz.PNG)
+![code quiz](https://github.com/MarioThompson0010/04_Quiz_Generator/blob/main/Assets/AwesomeQuiz.PNG)
 
 ## How to make this program work:
 
@@ -25,4 +25,4 @@ Refresh the page to see that indeed your initials and score were saved.  If you 
 ## Take the quiz here:
 
 
-[Link to quiz](https://mariothompson0010.github.io/04_Code_Quiz/)
+[Link to quiz](https://mariothompson0010.github.io/04_Quiz_Generator/)
